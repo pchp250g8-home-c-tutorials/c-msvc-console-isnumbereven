@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
     unsigned long ulNumber;
     system("cls");
     printf("Input an integer positive number\r\n");
-    scanf("%d", &ulNumber);
+    scanf("%lu", &ulNumber);
     if (ulNumber % 2 == 0)
         printf("The number is even\r\n");
     else

@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="IsNumberEven/IsNumberEven.vcxproj" />
+  <Project Path="IsNumberEven/IsNumberEven.vcxproj" Id="71329303-a7b5-43f4-b551-2b442de69a43" />
 </Solution>
